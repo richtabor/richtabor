@@ -1,4 +1,4 @@
-# Rich Tabor  
+### Heyo, it's Rich
 
 ### Design. Engineering. Product.  
 
