@@ -1,5 +1,3 @@
-### Heyo, it's Rich
-
 ### Design. Engineering. Product.  
 
 I build products where design, craft, and intelligence meet.  
