@@ -1,16 +1,13 @@
-### Hi there 👋
+# Rich Tabor  
 
-<!--
-**richtabor/richtabor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Design. Engineering. Product.  
 
-Here are some ideas to get you started:
+I build products where design, craft, and intelligence meet.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a product leader who still loves to make things. Most of my work sits at the intersection of WordPress, developer tools, and AI — exploring how thoughtful design can make powerful technology feel simple, fast, and human.  
+
+For over a decade, I’ve helped shape WordPress at scale — including leading design for multiple major WordPress releases, working deeply on Gutenberg, and shipping product at GoDaddy and Automattic.  
+
+---  
+
+[@richtabor](https://x.com/richtabor) · [richtabor.com](https://richtabor.com)
