@@ -8,4 +8,4 @@ For over a decade, I’ve helped shape WordPress at scale — including leading 
 
 ---  
 
-[@richtabor](https://x.com/richtabor) · [richtabor.com](https://richtabor.com) · [rich.blog](https://rich.blog) · [wordpress.org/richtabor](https://profiles.wordpress.org/richtabor)
+[@richtabor](https://x.com/richtabor) · [richtabor.com](https://richtabor.com) · [wordpress.org/richtabor](https://profiles.wordpress.org/richtabor)
